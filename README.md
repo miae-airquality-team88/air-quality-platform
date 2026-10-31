@@ -6,4 +6,4 @@ Plateforme DataOps/MLOps de détection d’anomalies de qualité de l’air
 - Ismail Bouabid
 - Aziz Agourram
 - Dris Alamass
-- Abderrahim Elharragui
+- Abderrahim Elharragui.
